@@ -80,6 +80,9 @@ last username - check howmany time user accessed to this vm
 lastb - give bad logins to vm
 lastlog - last logged in time of users
 
+
+
+just practise
 /var/log/utmp – It contains information about users who are currently logged in
 /var/log/utmw – It contains the history of all logged-in users
 /var/log/btmp – It keeps all bad login attempts
